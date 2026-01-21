@@ -1,7 +1,7 @@
 // Write your code below
 const input = Number(process.argv[2]);
 
-if (input <= 0 && input >=0){
+if (input <= 49 && input >=0){
 console.log("F");
 }
 else if (input <= 59 && input >=50){
